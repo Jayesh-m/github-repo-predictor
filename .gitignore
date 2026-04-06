@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pkl
+*.png
+repos.csv
+uv.lock
+test_
+.venv
